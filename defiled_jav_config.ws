@@ -1,7 +1,7 @@
 title=Defiled
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://127.0.0.1:43594/
-cachedir=.Defiled
+codebase=127.0.0.1:3846
+cachedir=.StakeScape
 storebase=0
 initial_jar=gamepack_6977315.jar
 initial_class=client.class
