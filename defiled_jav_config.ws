@@ -54,7 +54,7 @@ param=22=0
 param=6=0
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=1=1
-param=17=https://raw.githubusercontent.com/Chapi92/resources/main/world_list.ws
+param=17=https://raw.githubusercontent.com/Chapi92/resources/main/worlds.ws
 param=7=0
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
 param=14=0
